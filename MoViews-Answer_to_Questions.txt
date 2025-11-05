@@ -1,0 +1,21 @@
+1) Product Name:
+MoViews
+
+2) Function + Connection:
+MoViews allows users to upload, organize, and publish customer reviews as shareable content. Businesses can turn positive feedback into marketing posts and integrate these across social platforms such as Facebook, Instagram, and LinkedIn.
+
+3) Why I chose to make the product:
+Small businesses often receive versatile customer reviews but face challenges in showcasing them effectively. MoViews automates the process of uploading, formatting, and presenting customer feedback, bridging the gap between customer testimonials and marketing efforts.
+
+4) Why MoFlo clients would be interested:
+Social credibility drives customer trust, which is particularly important for smaller or newer businesses. MoViews helps businesses build brand credibility, foster community, and highlight positive feedback. Unlike broad platforms like Yelp, MoViews is tailored to small businesses, offering insights and trends that enable growth and improvement.
+
+5) Future improvements / potential features:
+
+Implement advanced sorting and filtering for testimonials.
+
+Create user profiles for reviewers to show different perspectives (e.g., scholars, entrepreneurs, general customers).
+
+Optionally, allow anonymous testimonials to encourage honest feedback.
+
+Add analytics to track trends and growth opportunities for businesses
